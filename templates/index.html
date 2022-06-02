@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Upload Image</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
+</head>
+
+<body>
+    <div class="container text-center">
+            <br><br>
+        <h1>人脸识别在线服务窗口</h1>
+            <br><br><br>
+        <h3>请上传你的人脸图片存储到数据库中:</h3>
+            <br><br>
+        <form method=POST enctype=multipart/form-data action="{{ url_for('get_image') }}">
+            <input type=file name=file class="btn btn-outline-dark">
+            <input type="submit" class="btn btn-outline-dark">
+        </form>
+            <br><br><br><br><br>
+        <a href="{{ url_for('predict_page') }}" class="btn btn-outline-dark">点击这里立即开始人脸识别!</a>
+            <br><br><br>
+        <a href="{{ url_for('face_detect_live') }}" class="btn btn-outline-dark">点击这里进入实时人脸识别系统! (按 'q' 退出摄像头)</a>
+    </div>
+</body>
+</html>
