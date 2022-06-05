@@ -5,3 +5,8 @@ a web in masked face recognition system for undergraduate final test (本科毕�
 ｜ --- ｜ --- ｜
 ｜ python ｜ ｜
 ｜ falsk ｜ 搭建系统接口网站 ｜
+
+|  表头   | 表头  |
+|  ----  | ----  |
+| 单元格  | 单元格 |
+| 单元格  | 单元格 |
