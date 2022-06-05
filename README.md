@@ -1,6 +1,8 @@
 # face_recogniton_websites
 a web in masked face recognition system for undergraduate final test (本科毕设：可遮挡的人脸识别系统）
 
+本项目是用于毕业设计的代码，创建一个以浏览器为接口的可遮挡人脸识别系统，目前测试下来，LFW数据集识别成功率99.8%， RA数据集识别成功率94%，没有进行压力测试。
+
 | 语言及框架  |   |
 | :----  | :----  |
 | Python  |  系统编写语言 |
