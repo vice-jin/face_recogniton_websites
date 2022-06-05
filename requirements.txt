@@ -1,0 +1,13 @@
+keras==2.2.4
+tensorflow==1.12.2
+opencv-python==3.4.3.18
+numpy==1.16.2
+scipy==1.0.0
+pillow==6.2.0
+pandas==1.1.5
+h5py
+matplotlib==2.1.0
+scikit-learn==0.19.0
+tqdm==4.64.0
+flask==1.0
+insightface==0.1.5
