@@ -4,7 +4,7 @@ a web in masked face recognition system for undergraduate final test (本科毕�
 | 语言及框架  |   |
 | :----  | :----  |
 | Python  |  系统编写语言 |
-| Falsk | Web框架，搭建浏览器接口 |
+| Flask | Web框架，搭建浏览器接口 |
 
 |  技术金字塔   |   |
 |  :----  | :----  |
