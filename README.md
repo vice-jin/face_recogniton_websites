@@ -30,7 +30,7 @@ pip3 install -r requirements.txt
 
 | 技术金字塔 |                            |
 | :--------- | :------------------------- |
-| 网络模型   | MobileNet                  |
+| 网络模型   | MobileNet·魔改版               |
 | 损失函数   | Triplet Loss               |
 | 学习率优化 | SGD                        |
 | 学习率调整 | warm up + Cosine annealing |
