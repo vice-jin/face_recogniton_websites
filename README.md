@@ -25,6 +25,9 @@ pip3 install -r requirements.txt
 + 运行server.py开启人脸识别系统，网站默认网址为localhost:9999
 
 
+### 效果
+***
+
 | 技术金字塔 |                            |
 | :--------- | :------------------------- |
 | 网络模型   | MobileNet                  |
@@ -32,8 +35,4 @@ pip3 install -r requirements.txt
 | 学习率优化 | SGD                        |
 | 学习率调整 | warm up + Cosine annealing |
 | 预训练模型 | FaceNet                    |
-
-### 效果
-***
-
 
