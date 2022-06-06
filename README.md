@@ -18,8 +18,8 @@ pip3 install -r requirements.txt
 ```
 ### 使用
 ***
-+ 下载WebFace数据集放到datasets文件夹下，Webface数据集下载地址：链接: https://pan.baidu.com/s/1gIz39WBZXs-hVVv3VjHbfA?pwd=19cr 提取码: 19cr 
-+ 下载LFW数据集放到lfw文件夹下，LFW数据集下载地址：链接: https://pan.baidu.com/s/1G4k3Z7tKWtdz87VoPX1Nqw?pwd=2982 提取码: 2982 
++ 下载WebFace数据集放到datasets文件夹下，Webface数据集下载链接: https://pan.baidu.com/s/1gIz39WBZXs-hVVv3VjHbfA?pwd=19cr 提取码: 19cr 
++ 下载LFW数据集放到lfw文件夹下，LFW数据集下载链接: https://pan.baidu.com/s/1G4k3Z7tKWtdz87VoPX1Nqw?pwd=2982 提取码: 2982 
 + 运行train.py生成人脸识别模型
 + 运行predict.py验证人脸识别系统是否可以正确使用
 + 运行server.py开启人脸识别系统，网站默认网址为localhost:9999
